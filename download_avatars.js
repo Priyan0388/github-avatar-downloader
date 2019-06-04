@@ -21,5 +21,3 @@ getRepoContributors('jquery', 'jquery', function(err, result){
 });
 
 console.log('Welcome to the GitHub Avatar Downloader!');
-
-//ACCESS TOKEN:259a3ceb37fefcb5a0dce65d96c8b054994f593d
